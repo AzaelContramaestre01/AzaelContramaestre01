@@ -1,13 +1,13 @@
+ <img align="right" src="https://media.giphy.com/media/5L57f5fI3f2716NaJ3/giphy.gif" width="400">
 
 <h2> Epale! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> </h2>	     	
-
-
 
 
 
 - 📫 Como te contacto? **galaxyhhd@hotmail.com**
 
 - ⚡**I love solving problems, coding, videogames, and challenges!**
+
 
 
 <h3 align="left">Connect with me:</h3>
