@@ -1,7 +1,7 @@
 
-Epale!	     	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+<h1> Epale! </h1>	     	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-<h3 align="center">Desarrollador Full-Stack</h3>
+
 
 
 
