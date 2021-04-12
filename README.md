@@ -9,7 +9,7 @@
 
 - ⚡**I love solving problems, coding, videogames, and challenges!**
 
- <img align="right" src="https://media.giphy.com/media/VI2UC13hwWin1MIfmi/giphy.gif" heigth="400" width="400">
+ <img align="right" src="https://media.giphy.com/media/VI2UC13hwWin1MIfmi/giphy.gif" width="400">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
