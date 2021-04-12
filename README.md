@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/azaelcontramaestre01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="azaelcontramaestre01" height="50" width="60" /></a>
-<a href="https://fb.com/azael contramaestre" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="azael contramaestre" height="50" width="60" /></a>
+<a href="https://fb.com/KahuAzael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="azael contramaestre" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
