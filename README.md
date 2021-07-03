@@ -6,7 +6,7 @@
 
 - 📫 Como te contacto? **galaxyhhd@hotmail.com**
 
-- ⚡**I love solving problems, coding, videogames, and challenges!**
+- ⚡**I love solving problems, coding, play videogames, and new challenges!**
 
 
 
